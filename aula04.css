@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+
+    background-color: rgb(64, 10, 212);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 0;
+}
+main{ 
+    display: flex;
+}
